@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Priyanshu Shrivastava.
-- 👀 I’m interested in programming , web development.
-- 🌱 I’m currently pursuing BCA and enhanceing my skills in field of web development.
-- 💞️ I’m a student and working on minor projects to improve my skills and test my skills in field of web development.
-- 📫 you can reach me through my linkedin URL- https://www.linkedin.com/in/priyanshu-shrivastava-23170b226
+🚀 Hello World! I'm Priyanshu Shrivastava, a passionate MERN Stack Developer on a mission to craft meaningful and innovative web applications. With a solid foundation in MongoDB, Express.js, React, and Node.js, I thrive on turning ideas into scalable and efficient code.
 
-<!---
-Priyanshu4002/Priyanshu4002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 As a tech enthusiast, I love staying up-to-date with the latest trends in web development and exploring new technologies. My journey involves translating complex requirements into elegant and user-friendly solutions.
+
+👨‍💻 From crafting robust backends with Node.js and Express to creating dynamic and responsive user interfaces with React, I enjoy the end-to-end process of building delightful digital experiences. Let's connect, collaborate, and code together!
+
+📫 Reach out to me for discussions on all things MERN Stack, web development challenges, or just to geek out about the latest tech trends. Excited to be part of the vibrant GitHub community and contribute to the world of open source!
+
+🔗 Portfolio: https://priyanshu-portfolio-gamma.vercel.app/
+📧 Email: singhpsv2002@gmail.com
+🐦 linkedin URL: https://www.linkedin.com/in/priyanshu-shrivastava-23170b226
+
